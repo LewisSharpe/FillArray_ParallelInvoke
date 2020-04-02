@@ -1,0 +1,7 @@
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\bin\Debug\FillArray_PInvoke.exe.config
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\bin\Debug\FillArray_PInvoke.exe
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\bin\Debug\FillArray_PInvoke.pdb
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\obj\Debug\FillArray_PInvoke.csprojAssemblyReference.cache
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\obj\Debug\FillArray_PInvoke.csproj.CoreCompileInputs.cache
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\obj\Debug\FillArray_PInvoke.exe
+C:\Users\New User\Documents\PhD_Project\FillArray_PInvoke\FillArray_PInvoke\obj\Debug\FillArray_PInvoke.pdb
