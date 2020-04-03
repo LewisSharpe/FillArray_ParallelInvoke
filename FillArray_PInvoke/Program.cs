@@ -21,7 +21,6 @@ class Program
             Console.WriteLine("#### THREAD " + i + " - StartAt: {0}, EndAt: {1}", watch.StartAt.Value, watch.EndAt.Value); // timestamp to identify level of thread distribution representation
             Console.WriteLine(generateRandomsforSearch(result, num));
         }
-
         Console.Read();
     }
     // Method performs a Linear Search
@@ -68,7 +67,6 @@ class Program
     static void func(int num)
     {
         var actions = new Action[Environment.ProcessorCount];
-
         Console.Write("Filling array.........");
         for (int i = 0; i < Environment.ProcessorCount; i++)
         {
@@ -76,6 +74,5 @@ class Program
             actions[i] = () => func(num);
             counter++;
         }
-      
     }
 }
