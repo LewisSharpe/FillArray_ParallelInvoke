@@ -4,34 +4,30 @@ using System.Threading.Tasks;
 class Program
 {
     static int counter;
-
+    public static FillArray_PInvoke.CustomStopwatch watch = new FillArray_PInvoke.CustomStopwatch();
     // main starts Parallel.Invoke over processor count
+    int num = Environment.ProcessorCount;
     static void Main(string[] args)
     {
-        FillArray_PInvoke.CustomStopwatch watch = new FillArray_PInvoke.CustomStopwatch();
+        Action[] action;
         int num = 0; int result = 0;
         counter = 0;
-        for (int i = 0; i < Environment.ProcessorCount; i++)
-        {
-            watch.Start();
-            Parallel.Invoke(
-            () => func(i)); // Parallel invoke array filled with tasks in func
-            watch.Stop();
-            Console.Write("Invoking.........");
-            Console.WriteLine("#### THREAD " + i + " - StartAt: {0}, EndAt: {1}", watch.StartAt.Value, watch.EndAt.Value); // timestamp to identify level of thread distribution representation
-            Console.WriteLine(generateRandomsforSearch(result, num));
-        }
+            action = Func();
+            Parallel.Invoke(action); // Parallel invoke array filled with tasks in func          
         Console.Read();
     }
     // Method performs a Linear Search
     public static int search(int[] arr, int x)
     {
+        watch.Start(); // starts timer for search
         int n = arr.Length;
         for (int i = 0; i < n; i++)
         {
             if (arr[i] == x)
                 return i;
         }
+        watch.Stop(); // stops timer for search, time displayed in main
+        Console.WriteLine("#### THREAD " + Environment.ProcessorCount + " - StartAt: {0}, EndAt: {1}", watch.StartAt.Value, watch.EndAt.Value); // timestamp to identify level of thread distribution representation
         return -1;
     }
    // method generates randoms for search and begin search
@@ -45,34 +41,35 @@ class Program
 
         Random rnd = new Random();
         int x = rnd.Next(1, 500000);  // generate a random number between 1 and 500,000
-        Console.Write(Environment.NewLine + "##### The number selected: " + x + Environment.NewLine);
-        int[] arr = new int[5000]; // generate list of 5000 entries between 0 and 500,000
+        Console.Write(Environment.NewLine + "THREAD" + num + "##### The number selected: " + x + Environment.NewLine);
+        int[] arr = new int[5000000]; // generate list of 5000 entries between 0 and 500,000
         Random randNum = new Random();
         for (int i = 0; i < arr.Length; i++)
         {
             arr[i] = randNum.Next(Min, Max); // fill list with 5,000 random entries between 0 and 500,000
-            Console.Write("{0}  ", arr[i]); 
+     //       Console.Write("{0}  ", arr[i]); 
         }
-        Console.Write(Environment.NewLine + "##### The number selected: " + x + Environment.NewLine);
         result = search(arr, x); // set result to result of the linear search
         // is the selected number in the list?
         if (result == -1)
-            Console.WriteLine(Environment.NewLine + "#### Element is not present in array"); // found in list
+            Console.WriteLine(Environment.NewLine + "THREAD" + num + "#### Element is not present in array"); // found in list
         else
-            Console.WriteLine(Environment.NewLine + "#### Element is present at index " + result); // not found in list
+            Console.WriteLine(Environment.NewLine + "THREAD" + num + "#### Element is present at index " + result); // not found in list
 
         return result;
 }
     // Method fills arrays with tasks ready to Parallel.Invoke in main
-    static void func(int num)
+   static Action[] Func()
     {
+        int num = 0;
+        int result = 0;
         var actions = new Action[Environment.ProcessorCount];
-        Console.Write("Filling array.........");
         for (int i = 0; i < Environment.ProcessorCount; i++)
         {
             // Console.WriteLine(string.Format("This is function #{0} loop. counter - {1}", num, counter));
-            actions[i] = () => func(num);
+            actions[i] = () => generateRandomsforSearch(result, i);
             counter++;
         }
+        return actions;
     }
 }
