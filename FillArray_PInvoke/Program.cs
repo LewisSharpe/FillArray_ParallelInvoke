@@ -63,10 +63,13 @@ class Program
         Console.Write(Environment.NewLine + "+++++ BEGIN THREAD " + thr.ManagedThreadId + ": The number selected: " + x + Environment.NewLine);
         int[] arr = new int[ArrLen]; // generate list of 5000 entries between 0 and 500,000
         Random randNum = new Random();
-        for (int i = 0; i < arr.Length; i++)
+        for (int j = 0; j < Environment.ProcessorCount; j++)
         {
-            arr[i] = randNum.Next(Min, Max); // fill list with 5,000 random entries between 0 and 500,000
-     //       Console.Write("{0}  ", arr[i]); 
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = randNum.Next(Min, Max); // fill list with 5,000 random entries between 0 and 500,000
+                                                 //       Console.Write("{0}  ", arr[i]); 
+            }
         }
         result = search(arr, x); // set result to result of the linear search
         // is the selected number in the list?
@@ -78,15 +81,15 @@ class Program
         return result;
 }
     // Method fills arrays with tasks ready to Parallel.Invoke in main
-   static Action[] Func()
+    static Action[] Func()
     {
-        //int num = 0;
+        int num = 0;
         int result = 0;
         var actions = new Action[Environment.ProcessorCount];
         for (int i = 0; i < Environment.ProcessorCount; i++)
         {
-            // Console.WriteLine(string.Format("This is function #{0} loop. counter - {1}", num, counter));
-	  actions[i] = () => generateRandomsforSearch(new Tuple<int,int>(result, i)); // HWL: tuple instance should carry right num values; doesn't work at the moment; TODO: check why
+            Console.WriteLine(string.Format("This is function #{0} loop. counter - {1}", num, counter));
+            actions[i] = () => generateRandomsforSearch(Tuple.Create(result, counter));
             counter++;
         }
         return actions;
