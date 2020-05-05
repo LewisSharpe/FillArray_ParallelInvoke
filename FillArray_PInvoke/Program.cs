@@ -88,7 +88,7 @@ class Program
         var actions = new Action[Environment.ProcessorCount];
         for (int i = 0; i < Environment.ProcessorCount; i++)
         {
-            Console.WriteLine(string.Format("This is function #{0} loop. counter - {1}", num, counter));
+
             actions[i] = () => generateRandomsforSearch(Tuple.Create(result, counter));
             counter++;
         }

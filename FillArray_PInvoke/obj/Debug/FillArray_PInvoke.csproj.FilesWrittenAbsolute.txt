@@ -1,0 +1,8 @@
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/bin/Debug/FillArray_PInvoke.exe.config
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/bin/Debug/FillArray_PInvoke.exe.mdb
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/bin/Debug/FillArray_PInvoke.pdb
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/bin/Debug/FillArray_PInvoke.exe
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/obj/Debug/FillArray_PInvoke.exe
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/obj/Debug/FillArray_PInvoke.exe.mdb
+/home/ls68/FillArray_ParallelInvoke_040520/FillArray_PInvoke/obj/Debug/FillArray_PInvoke.pdb
