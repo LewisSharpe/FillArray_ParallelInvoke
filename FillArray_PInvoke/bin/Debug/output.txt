@@ -1,0 +1,10 @@
+###Time taken for core number seq: 14 seconds
+###Time taken for core number 1: 19 seconds
+###Time taken for core number 2: 14 seconds
+###Time taken for core number 4: 15 seconds
+###Time taken for core number 8: 14 seconds
+###Time taken for core number 16: 19 seconds
+###Time taken for core number 24: 15 seconds
+###Time taken for core number 32: 13 seconds
+###Time taken for core number 48: 14 seconds
+###Time taken for core number 64: 19 seconds
