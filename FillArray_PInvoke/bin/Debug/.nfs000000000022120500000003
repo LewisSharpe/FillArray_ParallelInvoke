@@ -1,0 +1,1728 @@
+**** NUMBER OF CORES: 1 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 182584
+
++++++ BEGIN THREAD 4: The number selected: 437153
+
++++++ BEGIN THREAD 5: The number selected: 332918
+
++++++ BEGIN THREAD 6: The number selected: 161407
+
++++++ BEGIN THREAD 7: The number selected: 281424
+
++++++ BEGIN THREAD 8: The number selected: 95379
+
++++++ BEGIN THREAD 9: The number selected: 95379
+
++++++ BEGIN THREAD 10: The number selected: 35994
+
++++++ BEGIN THREAD 11: The number selected: 282672
+
++++++ BEGIN THREAD 12: The number selected: 282672
+
++++++ BEGIN THREAD 13: The number selected: 282672
+
++++++ BEGIN THREAD 14: The number selected: 201304
+
++++++ BEGIN THREAD 15: The number selected: 425557
+
++++++ BEGIN THREAD 17: The number selected: 425557
+
++++++ BEGIN THREAD 16: The number selected: 725
+
++++++ BEGIN THREAD 18: The number selected: 112851
+
++++++ BEGIN THREAD 19: The number selected: 112851
+
++++++ BEGIN THREAD 20: The number selected: 210443
+
++++++ BEGIN THREAD 21: The number selected: 248651
+
++++++ BEGIN THREAD 22: The number selected: 248651
+
++++++ BEGIN THREAD 23: The number selected: 271076
+
++++++ BEGIN THREAD 24: The number selected: 413961
+
++++++ BEGIN THREAD 25: The number selected: 354576
+
++++++ BEGIN THREAD 26: The number selected: 258232
+
++++++ BEGIN THREAD 27: The number selected: 86721
+
++++++ BEGIN THREAD 28: The number selected: 288548
+
++++++ BEGIN THREAD 29: The number selected: 475842
+
++++++ BEGIN THREAD 30: The number selected: 498267
+
++++++ BEGIN THREAD 31: The number selected: 185561
+
++++++ BEGIN THREAD 32: The number selected: 185561
+
++++++ BEGIN THREAD 33: The number selected: 36475
+
++++++ BEGIN THREAD 34: The number selected: 7849
+
++++++ BEGIN THREAD 35: The number selected: 493314
+
++++++ BEGIN THREAD 36: The number selected: 329694
+
++++++ BEGIN THREAD 37: The number selected: 76373
+
++++++ BEGIN THREAD 39: The number selected: 472137
+
++++++ BEGIN THREAD 38: The number selected: 196390
+
++++++ BEGIN THREAD 41: The number selected: 196390
+
++++++ BEGIN THREAD 42: The number selected: 144897
+
++++++ BEGIN THREAD 40: The number selected: 144897
+
++++++ BEGIN THREAD 43: The number selected: 473385
+
++++++ BEGIN THREAD 44: The number selected: 287782
+
++++++ BEGIN THREAD 45: The number selected: 444759
+
++++++ BEGIN THREAD 46: The number selected: 250822
+
++++++ BEGIN THREAD 47: The number selected: 460541
+
++++++ BEGIN THREAD 48: The number selected: 409047
+
++++++ BEGIN THREAD 49: The number selected: 394513
+
++++++ BEGIN THREAD 51: The number selected: 200577
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:31
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:31
+
+----- END  THREAD 18: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:32
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:32
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:34
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:34
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:34
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:34
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:35
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:36
+
+----- END  THREAD 16: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:37
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:37
+
+----- END  THREAD 35: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:38
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:38
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:38
+
+----- END  THREAD 40: is not present in array
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:38
+
+----- END  THREAD 14: is not present in array
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 45: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 37: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 29: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:39
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:40
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:40
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:40
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:40
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 51 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:41
+
+----- END  THREAD 51: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:41
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:42
+
+----- END  THREAD 48: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:42
+
+----- END  THREAD 47: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:41:38, EndAt: 04/05/2020 00:42:42
+
+----- END  THREAD 49: is not present in array
+Time taken for 1 cores: 69 seconds**** NUMBER OF CORES: 2 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 162832
+
++++++ BEGIN THREAD 4: The number selected: 237999
+
++++++ BEGIN THREAD 5: The number selected: 335591
+
++++++ BEGIN THREAD 6: The number selected: 492568
+
++++++ BEGIN THREAD 7: The number selected: 298631
+
++++++ BEGIN THREAD 8: The number selected: 135012
+
++++++ BEGIN THREAD 9: The number selected: 485925
+
++++++ BEGIN THREAD 10: The number selected: 359264
+
++++++ BEGIN THREAD 11: The number selected: 307771
+
++++++ BEGIN THREAD 12: The number selected: 136260
+
++++++ BEGIN THREAD 13: The number selected: 136260
+
++++++ BEGIN THREAD 14: The number selected: 480530
+
++++++ BEGIN THREAD 15: The number selected: 204783
+
++++++ BEGIN THREAD 16: The number selected: 204783
+
++++++ BEGIN THREAD 17: The number selected: 429036
+
++++++ BEGIN THREAD 18: The number selected: 18738
+
++++++ BEGIN THREAD 19: The number selected: 206071
+
++++++ BEGIN THREAD 20: The number selected: 497599
+
++++++ BEGIN THREAD 21: The number selected: 258812
+
++++++ BEGIN THREAD 22: The number selected: 378830
+
++++++ BEGIN THREAD 23: The number selected: 103083
+
++++++ BEGIN THREAD 24: The number selected: 409146
+
++++++ BEGIN THREAD 25: The number selected: 51590
+
++++++ BEGIN THREAD 26: The number selected: 447353
+
++++++ BEGIN THREAD 27: The number selected: 275842
+
++++++ BEGIN THREAD 28: The number selected: 59481
+
++++++ BEGIN THREAD 29: The number selected: 396302
+
++++++ BEGIN THREAD 30: The number selected: 471469
+
++++++ BEGIN THREAD 31: The number selected: 367234
+
++++++ BEGIN THREAD 33: The number selected: 367234
+
++++++ BEGIN THREAD 32: The number selected: 226039
+
++++++ BEGIN THREAD 34: The number selected: 315740
+
++++++ BEGIN THREAD 36: The number selected: 315740
+
++++++ BEGIN THREAD 35: The number selected: 92735
+
++++++ BEGIN THREAD 37: The number selected: 92735
+
++++++ BEGIN THREAD 38: The number selected: 160011
+
++++++ BEGIN THREAD 39: The number selected: 27150
+
++++++ BEGIN THREAD 40: The number selected: 498080
+
++++++ BEGIN THREAD 41: The number selected: 416270
+
++++++ BEGIN THREAD 43: The number selected: 461121
+
++++++ BEGIN THREAD 42: The number selected: 297501
+
++++++ BEGIN THREAD 44: The number selected: 193266
+
++++++ BEGIN THREAD 45: The number selected: 215691
+
++++++ BEGIN THREAD 46: The number selected: 231473
+
++++++ BEGIN THREAD 47: The number selected: 231473
+
++++++ BEGIN THREAD 48: The number selected: 231473
+
++++++ BEGIN THREAD 49: The number selected: 351933
+
++++++ BEGIN THREAD 50: The number selected: 76186
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:20
+
+----- END  THREAD 40: Element is present at index 10638
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:32
+
+----- END  THREAD 37: Element is present at index 18051
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:34
+
+----- END  THREAD 18: Element is present at index 19118
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:35
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:35
+
+----- END  THREAD 35: Element is present at index 18051
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:36
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:36
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:37
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:37
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:37
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:37
+
+----- END  THREAD 29: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:37
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:38
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:39
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:39
+
+----- END  THREAD 14: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:39
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:39
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:39
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 16: is not present in array
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 48: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:40
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:41
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:41
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:41
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:41
+
+----- END  THREAD 47: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:42
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:42
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:42
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:42
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:42
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:43
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:43
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:43
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 49: is not present in array
+#### SUMMARY THREAD 50 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 50: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:44
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:45
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:45
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:45
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:42:47, EndAt: 04/05/2020 00:43:46
+
+----- END  THREAD 45: is not present in array
+Time taken for 2 cores: 134 seconds**** NUMBER OF CORES: 3 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 151217
+
++++++ BEGIN THREAD 4: The number selected: 248809
+
++++++ BEGIN THREAD 5: The number selected: 279126
+
++++++ BEGIN THREAD 6: The number selected: 436103
+
++++++ BEGIN THREAD 7: The number selected: 264592
+
++++++ BEGIN THREAD 8: The number selected: 235523
+
++++++ BEGIN THREAD 9: The number selected: 459776
+
++++++ BEGIN THREAD 10: The number selected: 459776
+
++++++ BEGIN THREAD 11: The number selected: 161604
+
++++++ BEGIN THREAD 12: The number selected: 467667
+
++++++ BEGIN THREAD 13: The number selected: 408282
+
++++++ BEGIN THREAD 14: The number selected: 51168
+
++++++ BEGIN THREAD 15: The number selected: 402081
+
++++++ BEGIN THREAD 16: The number selected: 469357
+
++++++ BEGIN THREAD 17: The number selected: 148760
+
++++++ BEGIN THREAD 18: The number selected: 448180
+
++++++ BEGIN THREAD 19: The number selected: 172434
+
++++++ BEGIN THREAD 20: The number selected: 478496
+
++++++ BEGIN THREAD 21: The number selected: 120940
+
++++++ BEGIN THREAD 22: The number selected: 120940
+
++++++ BEGIN THREAD 23: The number selected: 120940
+
++++++ BEGIN THREAD 24: The number selected: 263825
+
++++++ BEGIN THREAD 25: The number selected: 488078
+
++++++ BEGIN THREAD 26: The number selected: 212331
+
++++++ BEGIN THREAD 28: The number selected: 212331
+
++++++ BEGIN THREAD 27: The number selected: 287498
+
++++++ BEGIN THREAD 29: The number selected: 11752
+
++++++ BEGIN THREAD 30: The number selected: 11752
+
++++++ BEGIN THREAD 31: The number selected: 42068
+
++++++ BEGIN THREAD 32: The number selected: 356022
+
++++++ BEGIN THREAD 33: The number selected: 356022
+
++++++ BEGIN THREAD 34: The number selected: 133459
+
++++++ BEGIN THREAD 35: The number selected: 275902
+
++++++ BEGIN THREAD 36: The number selected: 156
+
++++++ BEGIN THREAD 37: The number selected: 156
+
++++++ BEGIN THREAD 38: The number selected: 344426
+
++++++ BEGIN THREAD 39: The number selected: 68680
+
++++++ BEGIN THREAD 40: The number selected: 135955
+
++++++ BEGIN THREAD 42: The number selected: 174163
+
++++++ BEGIN THREAD 41: The number selected: 174163
+
++++++ BEGIN THREAD 43: The number selected: 353565
+
++++++ BEGIN THREAD 44: The number selected: 264306
+
++++++ BEGIN THREAD 45: The number selected: 160071
+
++++++ BEGIN THREAD 47: The number selected: 160071
+
++++++ BEGIN THREAD 46: The number selected: 108577
+
++++++ BEGIN THREAD 48: The number selected: 265554
+
++++++ BEGIN THREAD 49: The number selected: 310405
+
++++++ BEGIN THREAD 50: The number selected: 385572
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:41
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:42
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:42
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:43
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:43
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:44
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:44
+
+----- END  THREAD 29: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:44
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:44
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 35: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 18: is not present in array
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 14: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:45
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 37: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 16: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:46
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 40: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:47
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:48
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:48
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:48
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:48
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:49
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:49
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:49
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:49
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:49
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:50
+
+----- END  THREAD 45: is not present in array
+#### SUMMARY THREAD 50 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:51
+
+----- END  THREAD 50: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:51
+
+----- END  THREAD 47: is not present in array
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:52
+
+----- END  THREAD 48: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:43:51, EndAt: 04/05/2020 00:44:52
+
+----- END  THREAD 49: is not present in array
+Time taken for 3 cores: 199 seconds**** NUMBER OF CORES: 4 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 34561
+
++++++ BEGIN THREAD 4: The number selected: 87303
+
++++++ BEGIN THREAD 5: The number selected: 35809
+
++++++ BEGIN THREAD 6: The number selected: 409148
+
++++++ BEGIN THREAD 8: The number selected: 357654
+
++++++ BEGIN THREAD 7: The number selected: 230994
+
++++++ BEGIN THREAD 9: The number selected: 230994
+
++++++ BEGIN THREAD 10: The number selected: 261310
+
++++++ BEGIN THREAD 11: The number selected: 105581
+
++++++ BEGIN THREAD 12: The number selected: 105581
+
++++++ BEGIN THREAD 13: The number selected: 105581
+
++++++ BEGIN THREAD 14: The number selected: 359344
+
++++++ BEGIN THREAD 15: The number selected: 38748
+
++++++ BEGIN THREAD 17: The number selected: 38748
+
++++++ BEGIN THREAD 16: The number selected: 375127
+
++++++ BEGIN THREAD 18: The number selected: 472719
+
++++++ BEGIN THREAD 19: The number selected: 196973
+
++++++ BEGIN THREAD 20: The number selected: 196973
+
++++++ BEGIN THREAD 21: The number selected: 33353
+
++++++ BEGIN THREAD 22: The number selected: 33353
+
++++++ BEGIN THREAD 23: The number selected: 167904
+
++++++ BEGIN THREAD 24: The number selected: 363531
+
++++++ BEGIN THREAD 25: The number selected: 87784
+
++++++ BEGIN THREAD 26: The number selected: 87784
+
++++++ BEGIN THREAD 27: The number selected: 483548
+
++++++ BEGIN THREAD 28: The number selected: 432054
+
++++++ BEGIN THREAD 29: The number selected: 282969
+
++++++ BEGIN THREAD 31: The number selected: 44182
+
++++++ BEGIN THREAD 30: The number selected: 104815
+
++++++ BEGIN THREAD 32: The number selected: 104815
+
++++++ BEGIN THREAD 33: The number selected: 104815
+
++++++ BEGIN THREAD 34: The number selected: 196206
+
++++++ BEGIN THREAD 35: The number selected: 353183
+
++++++ BEGIN THREAD 37: The number selected: 159246
+
++++++ BEGIN THREAD 36: The number selected: 368965
+
++++++ BEGIN THREAD 38: The number selected: 93219
+
++++++ BEGIN THREAD 40: The number selected: 317471
+
++++++ BEGIN THREAD 39: The number selected: 474448
+
++++++ BEGIN THREAD 42: The number selected: 474448
+
++++++ BEGIN THREAD 41: The number selected: 198702
+
++++++ BEGIN THREAD 43: The number selected: 198702
+
++++++ BEGIN THREAD 44: The number selected: 408862
+
++++++ BEGIN THREAD 45: The number selected: 304627
+
++++++ BEGIN THREAD 47: The number selected: 371903
+
++++++ BEGIN THREAD 46: The number selected: 14347
+
++++++ BEGIN THREAD 48: The number selected: 410110
+
++++++ BEGIN THREAD 49: The number selected: 410110
+
++++++ BEGIN THREAD 50: The number selected: 30129
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:27
+
+----- END  THREAD 14: Element is present at index 14493
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:33
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:33
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:34
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:34
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:35
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:35
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:36
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:36
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:36
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:36
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:36
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 29: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:37
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:38
+
+----- END  THREAD 37: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:38
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:38
+
+----- END  THREAD 35: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:38
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:38
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 40: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 47: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:39
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:40
+
+----- END  THREAD 18: is not present in array
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:40
+
+----- END  THREAD 16: is not present in array
+#### SUMMARY THREAD 50 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:40
+
+----- END  THREAD 50: is not present in array
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:40
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:40
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:41
+
+----- END  THREAD 48: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:41
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:41
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:42
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:42
+
+----- END  THREAD 45: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:44:56, EndAt: 04/05/2020 00:45:42
+
+----- END  THREAD 49: is not present in array
+Time taken for 4 cores: 250 seconds**** NUMBER OF CORES: 5 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 422427
+
++++++ BEGIN THREAD 4: The number selected: 497594
+
++++++ BEGIN THREAD 5: The number selected: 221848
+
++++++ BEGIN THREAD 6: The number selected: 221848
+
++++++ BEGIN THREAD 7: The number selected: 245521
+
++++++ BEGIN THREAD 8: The number selected: 298263
+
++++++ BEGIN THREAD 9: The number selected: 387964
+
++++++ BEGIN THREAD 10: The number selected: 418280
+
++++++ BEGIN THREAD 11: The number selected: 120108
+
++++++ BEGIN THREAD 13: The number selected: 381321
+
++++++ BEGIN THREAD 12: The number selected: 142534
+
++++++ BEGIN THREAD 14: The number selected: 485998
+
++++++ BEGIN THREAD 15: The number selected: 255102
+
++++++ BEGIN THREAD 16: The number selected: 322378
+
++++++ BEGIN THREAD 17: The number selected: 307844
+
++++++ BEGIN THREAD 18: The number selected: 32098
+
++++++ BEGIN THREAD 20: The number selected: 99373
+
++++++ BEGIN THREAD 19: The number selected: 17563
+
++++++ BEGIN THREAD 21: The number selected: 309092
+
++++++ BEGIN THREAD 22: The number selected: 137581
+
++++++ BEGIN THREAD 23: The number selected: 137581
+
++++++ BEGIN THREAD 24: The number selected: 71995
+
++++++ BEGIN THREAD 25: The number selected: 296248
+
++++++ BEGIN THREAD 26: The number selected: 296248
+
++++++ BEGIN THREAD 27: The number selected: 498075
+
++++++ BEGIN THREAD 28: The number selected: 140519
+
++++++ BEGIN THREAD 29: The number selected: 469007
+
++++++ BEGIN THREAD 31: The number selected: 469007
+
++++++ BEGIN THREAD 30: The number selected: 246002
+
++++++ BEGIN THREAD 32: The number selected: 246002
+
++++++ BEGIN THREAD 33: The number selected: 335703
+
++++++ BEGIN THREAD 34: The number selected: 419203
+
++++++ BEGIN THREAD 35: The number selected: 427095
+
++++++ BEGIN THREAD 36: The number selected: 181665
+
++++++ BEGIN THREAD 37: The number selected: 405917
+
++++++ BEGIN THREAD 39: The number selected: 405917
+
++++++ BEGIN THREAD 38: The number selected: 130171
+
++++++ BEGIN THREAD 40: The number selected: 93212
+
++++++ BEGIN THREAD 41: The number selected: 78677
+
++++++ BEGIN THREAD 43: The number selected: 78677
+
++++++ BEGIN THREAD 42: The number selected: 145953
+
++++++ BEGIN THREAD 44: The number selected: 117327
+
++++++ BEGIN THREAD 45: The number selected: 102793
+
++++++ BEGIN THREAD 47: The number selected: 498556
+
++++++ BEGIN THREAD 46: The number selected: 394321
+
++++++ BEGIN THREAD 49: The number selected: 447063
+
++++++ BEGIN THREAD 48: The number selected: 342828
+
++++++ BEGIN THREAD 50: The number selected: 499805
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:45:49
+
+----- END  THREAD 48: Element is present at index 729
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:15
+
+----- END  THREAD 29: Element is present at index 15025
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:21
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:21
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:22
+
+----- END  THREAD 14: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:22
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:22
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:22
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:22
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 16: is not present in array
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:23
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 18: is not present in array
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 40: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:24
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:25
+
+----- END  THREAD 35: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:25
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:25
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:25
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:25
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 50 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 50: is not present in array
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 37: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 49: is not present in array
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:26
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:27
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:27
+
+----- END  THREAD 45: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:45:47, EndAt: 04/05/2020 00:46:27
+
+----- END  THREAD 47: is not present in array
+Time taken for 5 cores: 294 seconds**** NUMBER OF CORES: 6 ****This is function #0 loop. counter - 0
+This is function #0 loop. counter - 1
+This is function #0 loop. counter - 2
+This is function #0 loop. counter - 3
+This is function #0 loop. counter - 4
+This is function #0 loop. counter - 5
+This is function #0 loop. counter - 6
+This is function #0 loop. counter - 7
+This is function #0 loop. counter - 8
+This is function #0 loop. counter - 9
+This is function #0 loop. counter - 10
+This is function #0 loop. counter - 11
+This is function #0 loop. counter - 12
+This is function #0 loop. counter - 13
+This is function #0 loop. counter - 14
+This is function #0 loop. counter - 15
+This is function #0 loop. counter - 16
+This is function #0 loop. counter - 17
+This is function #0 loop. counter - 18
+This is function #0 loop. counter - 19
+This is function #0 loop. counter - 20
+This is function #0 loop. counter - 21
+This is function #0 loop. counter - 22
+This is function #0 loop. counter - 23
+This is function #0 loop. counter - 24
+This is function #0 loop. counter - 25
+This is function #0 loop. counter - 26
+This is function #0 loop. counter - 27
+This is function #0 loop. counter - 28
+This is function #0 loop. counter - 29
+This is function #0 loop. counter - 30
+This is function #0 loop. counter - 31
+This is function #0 loop. counter - 32
+This is function #0 loop. counter - 33
+This is function #0 loop. counter - 34
+This is function #0 loop. counter - 35
+This is function #0 loop. counter - 36
+This is function #0 loop. counter - 37
+This is function #0 loop. counter - 38
+This is function #0 loop. counter - 39
+This is function #0 loop. counter - 40
+This is function #0 loop. counter - 41
+This is function #0 loop. counter - 42
+This is function #0 loop. counter - 43
+This is function #0 loop. counter - 44
+This is function #0 loop. counter - 45
+This is function #0 loop. counter - 46
+This is function #0 loop. counter - 47
+
++++++ BEGIN THREAD 1: The number selected: 188833
+
++++++ BEGIN THREAD 4: The number selected: 457936
+
++++++ BEGIN THREAD 5: The number selected: 145230
+
++++++ BEGIN THREAD 6: The number selected: 473718
+
++++++ BEGIN THREAD 8: The number selected: 473718
+
++++++ BEGIN THREAD 7: The number selected: 354949
+
++++++ BEGIN THREAD 9: The number selected: 317989
+
++++++ BEGIN THREAD 10: The number selected: 317989
+
++++++ BEGIN THREAD 11: The number selected: 370731
+
++++++ BEGIN THREAD 12: The number selected: 266495
+
++++++ BEGIN THREAD 14: The number selected: 266495
+
++++++ BEGIN THREAD 13: The number selected: 319237
+
++++++ BEGIN THREAD 15: The number selected: 476214
+
++++++ BEGIN THREAD 16: The number selected: 43491
+
++++++ BEGIN THREAD 17: The number selected: 200468
+
++++++ BEGIN THREAD 18: The number selected: 491996
+
++++++ BEGIN THREAD 19: The number selected: 171399
+
++++++ BEGIN THREAD 20: The number selected: 171399
+
++++++ BEGIN THREAD 21: The number selected: 350802
+
++++++ BEGIN THREAD 22: The number selected: 254497
+
++++++ BEGIN THREAD 23: The number selected: 195112
+
++++++ BEGIN THREAD 24: The number selected: 195112
+
++++++ BEGIN THREAD 25: The number selected: 292704
+
++++++ BEGIN THREAD 26: The number selected: 188469
+
++++++ BEGIN THREAD 27: The number selected: 367871
+
++++++ BEGIN THREAD 29: The number selected: 367871
+
++++++ BEGIN THREAD 28: The number selected: 92125
+
++++++ BEGIN THREAD 30: The number selected: 167291
+
++++++ BEGIN THREAD 31: The number selected: 167291
+
++++++ BEGIN THREAD 32: The number selected: 221723
+
++++++ BEGIN THREAD 33: The number selected: 207189
+
++++++ BEGIN THREAD 35: The number selected: 207189
+
++++++ BEGIN THREAD 34: The number selected: 178121
+
++++++ BEGIN THREAD 36: The number selected: 379948
+
++++++ BEGIN THREAD 37: The number selected: 104202
+
++++++ BEGIN THREAD 38: The number selected: 365414
+
++++++ BEGIN THREAD 39: The number selected: 89668
+
++++++ BEGIN THREAD 40: The number selected: 52708
+
++++++ BEGIN THREAD 41: The number selected: 313920
+
++++++ BEGIN THREAD 42: The number selected: 419846
+
++++++ BEGIN THREAD 43: The number selected: 382886
+
++++++ BEGIN THREAD 45: The number selected: 144099
+
++++++ BEGIN THREAD 44: The number selected: 92606
+
++++++ BEGIN THREAD 46: The number selected: 78072
+
++++++ BEGIN THREAD 47: The number selected: 78072
+
++++++ BEGIN THREAD 48: The number selected: 265365
+
++++++ BEGIN THREAD 49: The number selected: 489618
+
++++++ BEGIN THREAD 50: The number selected: 295681
+#### SUMMARY THREAD 16 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:36
+
+----- END  THREAD 16: Element is present at index 4767
+#### SUMMARY THREAD 22 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:53
+
+----- END  THREAD 22: is not present in array
+#### SUMMARY THREAD 15 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:53
+
+----- END  THREAD 15: is not present in array
+#### SUMMARY THREAD 11 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:53
+
+----- END  THREAD 11: is not present in array
+#### SUMMARY THREAD 23 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 23: is not present in array
+#### SUMMARY THREAD 8 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 8: is not present in array
+#### SUMMARY THREAD 24 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 24: is not present in array
+#### SUMMARY THREAD 6 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 6: is not present in array
+#### SUMMARY THREAD 35 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 35: is not present in array
+#### SUMMARY THREAD 29 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:54
+
+----- END  THREAD 29: is not present in array
+#### SUMMARY THREAD 1 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:55
+
+----- END  THREAD 1: is not present in array
+#### SUMMARY THREAD 46 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:55
+
+----- END  THREAD 46: is not present in array
+#### SUMMARY THREAD 31 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:55
+
+----- END  THREAD 31: is not present in array
+#### SUMMARY THREAD 44 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:55
+
+----- END  THREAD 44: is not present in array
+#### SUMMARY THREAD 9 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:55
+
+----- END  THREAD 9: is not present in array
+#### SUMMARY THREAD 32 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 32: is not present in array
+#### SUMMARY THREAD 25 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 25: is not present in array
+#### SUMMARY THREAD 36 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 36: is not present in array
+#### SUMMARY THREAD 12 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 12: is not present in array
+#### SUMMARY THREAD 14 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 14: is not present in array
+#### SUMMARY THREAD 33 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 33: is not present in array
+#### SUMMARY THREAD 50 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 50: is not present in array
+#### SUMMARY THREAD 20 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 20: is not present in array
+#### SUMMARY THREAD 10 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 10: is not present in array
+#### SUMMARY THREAD 34 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 34: is not present in array
+#### SUMMARY THREAD 27 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 27: is not present in array
+#### SUMMARY THREAD 26 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 26: is not present in array
+#### SUMMARY THREAD 4 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 4: is not present in array
+#### SUMMARY THREAD 5 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 5: is not present in array
+#### SUMMARY THREAD 21 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:56
+
+----- END  THREAD 21: is not present in array
+#### SUMMARY THREAD 37 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 37: is not present in array
+#### SUMMARY THREAD 7 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 7: is not present in array
+#### SUMMARY THREAD 19 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 19: is not present in array
+#### SUMMARY THREAD 41 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 41: is not present in array
+#### SUMMARY THREAD 47 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 47: is not present in array
+#### SUMMARY THREAD 28 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 28: is not present in array
+#### SUMMARY THREAD 17 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 17: is not present in array
+#### SUMMARY THREAD 30 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 30: is not present in array
+#### SUMMARY THREAD 49 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 49: is not present in array
+#### SUMMARY THREAD 18 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 18: is not present in array
+#### SUMMARY THREAD 43 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:57
+
+----- END  THREAD 43: is not present in array
+#### SUMMARY THREAD 13 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 13: is not present in array
+#### SUMMARY THREAD 38 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 38: is not present in array
+#### SUMMARY THREAD 45 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 45: is not present in array
+#### SUMMARY THREAD 39 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 39: is not present in array
+#### SUMMARY THREAD 42 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 42: is not present in array
+#### SUMMARY THREAD 40 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:58
+
+----- END  THREAD 40: is not present in array
+#### SUMMARY THREAD 48 - StartAt: 04/05/2020 00:46:31, EndAt: 04/05/2020 00:46:59
+
+----- END  THREAD 48: is not present in array
