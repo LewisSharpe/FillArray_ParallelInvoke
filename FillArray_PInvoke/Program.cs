@@ -4,22 +4,31 @@ using System.Threading.Tasks;
 
 class Program
 {
+    static CancellationTokenSource _tokenSource;
     static int counter;
     public static FillArray_PInvoke.CustomStopwatch watch = new FillArray_PInvoke.CustomStopwatch();
     // main starts Parallel.Invoke over processor count
     int num = Environment.ProcessorCount;
     static void Main(string[] args)
     {
-        Action[] action;
-        int num = 0; int result = 0;
-        counter = 0;
-	action = Func();
-	Parallel.Invoke(action); // Parallel invoke array filled with tasks in func          
+        for (int i = 0; i < Environment.ProcessorCount; i++) { 
+        _tokenSource = new CancellationTokenSource();
+        var options = new ParallelOptions { CancellationToken = _tokenSource.Token };
+        var actions = Func();
+        actions[i] = CancellingTask; // LS - NOTE FOR HWL: want to wrap this around an if statement saying if the result 1 or -1 then actions[i] = cancelledTask. Not sure how to pass the arguments through here from the search method below. Currently, the program cancels the current thread in use but the concept is working.
+        try { Parallel.Invoke(options, actions); }
+        catch (OperationCanceledException) { Console.WriteLine("Cancelled"); }
+            }
         // Console.Read();
     }
+    static void CancellingTask()
+    {
+        Console.WriteLine("Cancelling {0}", Task.CurrentId);
+        _tokenSource.Cancel();
+    }
 
-  // HWL: a really silly implementation of value-equality, just to generate more work
-  private static bool ExpensiveEq(int m, int n) {
+    // HWL: a really silly implementation of value-equality, just to generate more work
+    private static bool ExpensiveEq(int m, int n) {
     for (int i = 0; i<=m; i++) {
       if (i==m && i==n)
 	return true;
